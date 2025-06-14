@@ -1,0 +1,58 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Expo / React Native
+.expo/
+.expo-shared/
+web-build/
+dist/
+build/
+*.apk
+*.ipa
+
+# iOS
+ios/build/
+ios/Pods/
+ios/Podfile.lock
+
+# Android
+android/.gradle/
+android/app/build/
+android/build/
+android/.idea/
+
+# VSCode
+.vscode/
+.history/
+
+# macOS/Linux
+.DS_Store
+Thumbs.db
+
+# Git
+*.orig
+*.patch
+
+# Logs
+logs/
+*.log
+
+# Coverage reports
+coverage/
+*.lcov
+
+# Bundle artifacts
+*.tar.gz
+
+# Expo Go cache
+.expo-go/
+
+# Metro cache
+__generated__/
+.expo-cache/
+.expo/*
+.cache/
